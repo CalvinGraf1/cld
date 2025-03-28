@@ -1,4 +1,4 @@
-# CLD - Cloud Computing**](https://github.com/CalvinGraf1/cld
+# CLD - Cloud Computing
 
 Below you can find all the practical works we completed throughout the year, along with the grades we received, if applicable.
 
